@@ -1,1 +1,1 @@
-# ToSClassification
+# Terms of Service Classification
